@@ -2,7 +2,7 @@
  Manipule  Dom com Javascript - Curso Alura Frontend
 
 <h1>
-    <img src="https://ibb.co/Lr6KRFH">
+    <img src="https://i.ibb.co/Jq2Zt1g/JS-NA-WEB-MANIPULE-O-DOM-COM-JAVASCRIPT.png" alt="JS-NA-WEB-MANIPULE-O-DOM-COM-JAVASCRIPT" border="0">
 </h1>
  
 
@@ -17,5 +17,7 @@ Esse repositório referente ao ***Curso - JS NA WEB: MANIPULE O DOM COM JAVASCRI
 
 <br>
 <br>
-Instrutor Felipe Aguiar
+Instrutor Felipe Nascimento
+Linkedin : https://www.linkedin.com/in/felipedotcom/
+Desenvolvedor e instrutor na Alura com foco em JavaScript.
 
