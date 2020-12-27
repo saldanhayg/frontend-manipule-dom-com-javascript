@@ -17,7 +17,7 @@ Esse repositório referente ao ***Curso - JS NA WEB: MANIPULE O DOM COM JAVASCRI
 
 <br>
 <br>
-Instrutor Felipe Nascimento
-Linkedin : https://www.linkedin.com/in/felipedotcom/
+Instrutor Felipe Nascimento<br><br>
+Linkedin : https://www.linkedin.com/in/felipedotcom/<br>
 Desenvolvedor e instrutor na Alura com foco em JavaScript.
 
