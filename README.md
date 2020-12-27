@@ -2,7 +2,7 @@
  Manipule  Dom com Javascript - Curso Alura Frontend
 
 <h1>
-    <img src="https://cursos.alura.com.br/certificate/3ab7f416-8195-4807-a9f3-bac2d772f2df">
+    <img src="https://ibb.co/Lr6KRFH">
 </h1>
  
 
